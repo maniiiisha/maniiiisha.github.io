@@ -1,8 +1,7 @@
 import { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
-import Tilt from "react-tilt";
-
+import { Tilt } from 'react-tilt';
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant, slideIn } from "../utils/motion";
