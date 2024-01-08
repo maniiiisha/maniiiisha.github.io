@@ -24,6 +24,9 @@ module.exports = {
       backgroundSize: {
         'hero': '100%',
       },
+      backgroundRepeat: {
+        'herobg': 'no-repeat',
+      },
     },
   },
   plugins: [],
