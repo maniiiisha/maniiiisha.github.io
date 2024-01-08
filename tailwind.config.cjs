@@ -22,10 +22,10 @@ module.exports = {
         "hero-pattern": "url('/src/assets/herobg.png')",
       },
       backgroundSize: {
-        'hero': '100%',
+        'hero-pattern': '100%',
       },
       backgroundRepeat: {
-        'herobg': 'no-repeat',
+        'hero-pattern': 'no-repeat',
       },
     },
   },
