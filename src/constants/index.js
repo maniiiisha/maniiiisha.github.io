@@ -123,7 +123,7 @@ const experiences = [
     company_name: "iNeuron.ai",
     icon: ineuron,
     iconBg: "#383E56",
-    date: "September 2022 - Present",
+    date: "September 2022 - April 2024",
     points: [
       "Executed a diverse range of innovative projects.",
       "Developed an Image Scrapper project.",
